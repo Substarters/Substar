@@ -1,0 +1,2 @@
+# Substar
+Bot for Substarters.
